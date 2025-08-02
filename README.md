@@ -113,9 +113,7 @@ To save your plot, add this to your code:
 plt.savefig("images/change_point_plot.png")
 ```
 
-You’ll see your result in the `images/` folder as `change_point_plot.png`.
 
----
 
 ## 🚀 Getting Started
 
@@ -138,27 +136,6 @@ Feel free to:
 * ✨ Submit a pull request
 * ⭐️ Star the project if you find it useful
 
----
-
-## 📜 License
-
-Licensed under the [MIT License](LICENSE).
-
----
-
-## 👤 Author
-
-**Boaz Tulu**
-📧 [btulu@domain.com](mailto:btulu@domain.com)
-[LinkedIn](https://linkedin.com/in/your-profile)
-
----
-
-> “All models are wrong, but some are useful.” — George E. P. Box
-
-```
-
----
 
 **Now everything is in standard Markdown, with no side comments or “external” formatting.**  
 You can copy and paste this directly into your `README.md`!
